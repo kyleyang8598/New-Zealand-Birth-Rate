@@ -7,3 +7,4 @@ Created and developed on https://academy.cs.cmu.edu/.
 Project Description: Shows graphs of age specific birth rate in New Zealand.
 
 Instructions: Click on the buttons or press on the space key to switch between the graphs.
+![image](https://github.com/user-attachments/assets/cdc6527b-ec64-42f5-b481-e22ec8e1c73a)
